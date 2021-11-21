@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Calculadora Resistor</string>
+    <string-array name="Primfaixa">
+        <item>1-MARROM</item>
+        <item>2-VERMELHO</item>
+        <item>3-LARANJA</item>
+        <item>4-AMARELO</item>
+        <item>5-VERDE</item>
+        <item>6-AZUL</item>
+        <item>7-ROXO</item>
+        <item>8-CINZA</item>
+        <item>9-BRANCO</item>
+    </string-array>
+    <string-array name="Secfaixa">
+        <item>0-PRETO</item>
+        <item>1-MARROM</item>
+        <item>2-VERMELHO</item>
+        <item>3-LARANJA</item>
+        <item>4-AMARELO</item>
+        <item>5-VERDE</item>
+        <item>6-AZUL</item>
+        <item>7-ROXO</item>
+        <item>8-CINZA</item>
+        <item>9-BRANCO</item>
+    </string-array>
+    <string-array name="Tercfaixa" >
+        <item>0-PRETO (1)</item>
+        <item>1-MARROM (10)</item>
+        <item>2-VERMELHO (100)</item>
+        <item>3-LARANJA (1K)</item>
+        <item>4-AMARELO (10K)</item>
+        <item>5-VERDE (100K)</item>
+        <item>6-AZUL (1M)</item>
+        <item>7-ROXO (10M)</item>
+        <item>8-CINZA (100M)</item>
+        <item>9-BRANCO (1G)</item>
+    </string-array>
+    <string-array name="Quarfaixa">
+        <item>1 %-MARROM</item>
+        <item>2 %-VERMELHO</item>
+        <item>5 %-DOURADO</item>
+        <item>10 %-PRATA</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
